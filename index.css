@@ -100,11 +100,11 @@
     transition: ease-out 0.3s;
 
  }
-.register-btn:hover{
+/* .register-btn:hover{
    background-color:rgba(73, 126, 151, 0.692);; 
       color: white;
       cursor: pointer;
-}
+} */
 
 
 .text-1{
